@@ -1,2 +1,1 @@
-URL:www.fase2.tech
-IMG:www.fase2.tech
+URL:http://www.fase2.tech;IMG:http://www.fase2.tech;MSG:http://www.fase2.tech
