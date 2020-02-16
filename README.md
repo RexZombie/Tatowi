@@ -1,2 +1,3 @@
-#Tatowi
-Public repoitory intended to facilitate comunications and updates by tatowi's homework application.
+Tatowi
+
+Public repository intended to facilitate comunications and updates by tatowi's homework application.
